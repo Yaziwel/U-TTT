@@ -12,7 +12,7 @@ At present, we release only the model architecture code. The complete codebase w
 
 ## Citation
 
-If you find **TAT** useful in your research, please consider citing:
+If you find **U-TTT** useful in your research, please consider citing:
 
 ```bibtex
 @misc{yang2026U_TTT,

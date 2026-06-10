@@ -1,26 +1,28 @@
-# U-TTT: Towards Generalizable PET Image Denoising via Test-Time Training
+# U-TTT: Towards Generalizable PET Image Denoising via Test-Time Training[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11032)
 
 At present, we release only the model architecture code. The complete codebase will be made available upon acceptance of the paper.
 
 ## Network Architecture
 
-![](E:\STUDY\Github\U-TTT\README.assets\framework.png)
+![](./README.assets/framework.png)
 
 ## Result
 
-![](E:\STUDY\Github\U-TTT\README.assets\comparison.png)
+![](./README.assets/comparison.png)
 
 ## Citation
 
 If you find **TAT** useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{yang2025tat,
-  title={TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration},
-  author={Yang, Zhiwen and Zhang, Jiaju and Yi, Yang and Liang, Jian and Wei, Bingzheng and Xu, Yan},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  year={2025},
-  organization={Springer}
+@misc{yang2026U_TTT,
+      title={U-TTT: Towards Generalizable PET Image Denoising via Test-Time Training}, 
+      author={Zhiwen Yang and Jiayin Li and Hao Lu and Hui Zhang and Zihua Wang and Bingzheng Wei and Yan Xu},
+      year={2026},
+      eprint={2606.11032},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.11032}, 
 }
 ```
 
